@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pendaftaran Siswa Baru | SMK Coding</title>
+    <title>Pendaftaran Siswa Baru | SMK</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -98,6 +98,7 @@
     </header>
 
     <nav>
+        <a href="pdf.php" class="btn">Download File PDF</a>
         <a href="form-daftar.php">[+] Tambah Baru</a>
     </nav>
 
